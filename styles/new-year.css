@@ -1,0 +1,330 @@
+.merriweather{
+    font-family: "Merriweather", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
+
+.banner{
+    background-image: url("../images/Banner\ Image.png");
+    background-repeat: no-repeat;
+    box-shadow: 0 -8px 15px rgba(0, 0, 0, 25.5);
+    height: 600px;
+    width: 1320px;
+    margin: 50px 140px 120px 140px;
+    text-align:center;
+}
+
+.myth{
+    color: #FFFFFF;
+    font-size: 32px;
+    font-style: normal;
+}
+.pace{
+    color: #FFFFFF;
+    font-size: 72px;
+    font-weight: bold;
+    margin-top: 200px;
+}
+
+/* section-class-sixty-five styles */
+.sixty-five{
+    /* background-color: antiquewhite; */
+    height: 806px;
+    width: 803px;
+    margin: 0px 398px 120px 399px;
+    text-align: center;
+}
+
+.of{
+    color: #FF0000;
+    font-size: 88px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.holiday-deals{
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+.ac{
+    color: #070211;
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+/* section-welcome-party styles */
+
+.welcome-party{
+    display: flex;
+    background-image: url("../images/Vectorrr.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1320px;
+    margin: 0px 140px 120px 140px;
+    
+}
+
+.midnight-party{
+    color: #FFFFFF;
+    font-size: 64px;
+    font-weight: 500;
+    text-align:left;
+    margin-left: 150px;
+    margin-top: 170px;
+}
+.welcome-message{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: normal;
+    text-align:left;
+    margin-left: 150px;
+    margin-bottom: 2px;
+    margin-top: 50px;
+}
+.join{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    text-align:left;
+    margin-left: 170px;
+    margin-top: 20px;
+}
+.group-70{
+    text-align: right;
+    margin-left: 120px;
+    margin-top: 70px;
+}
+
+/* section-timing styles */
+
+.timing{
+    background-color: #f6f3f2;
+    margin: 0px 140px 120px 140px;
+    width: 1320px;
+    height: 482px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5%;
+}
+
+.all-time{
+    color: #070211;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 160px;
+    gap: 2px;
+}
+
+span{
+    color: #FF0000;
+}
+.btn-time{
+    color: #FFFFFF;
+    background-color: #FF0000;
+    border-radius: 5px;
+    padding: 22px;
+}
+/* section-class-be-off */
+.be-off{
+    height: 463px;
+    width: 1320px;
+    display: flex;
+    background-color: #e8d3e5;
+    margin: 0px 175px 120px 140px;
+}
+.offer{
+    margin: 84px 40px 84px 50px;
+}
+.nbo{
+    color: #FF0000;
+    font-size: 24px;
+}
+.c-soon{
+    color: #070211;
+    font-size: 48px;
+    font-weight: bold;
+}
+.para{
+    color: #070211;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.clb{
+    width: 453px;
+    height: 433px;
+    padding: 10px;
+    border: 5px solid red;
+    border-radius: 50%;
+}
+.celeb{
+    /* border-radius: 50%; */
+    /* border: 5px solid red; */
+    margin: 0px 190px 0px 0px;
+}
+.twenty{
+    margin: 12px 10px 43px 10px;
+}
+.yr{
+    color: #FF0000;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+.des{
+    color: #070211;
+    font-size: 20px;
+    font-style: normal;
+}
+
+/* section-class-holiday styles */
+.holiday{
+    text-align: center;
+    height: 260px;
+    width: 1068px;
+    margin: 0px 266px 64px 266px;
+    background-color: #f6f3f2;
+}
+.func{
+    font-size: 24px;
+    font-weight: 400;
+    color: #070211;
+    margin-bottom: 3px;
+    margin-top: 2px;
+}
+.sale{
+    font-size: 72px;
+    font-weight: bold;
+    color: #070211;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+.h-day{
+    color: #FF0000;
+}
+.msg{
+    font-size: 20px;
+    color: #070211;
+}
+
+/* discount-section styles */
+.discount{
+    display: flex;
+    background-color: #daf7f3;
+    background-image: url("../images/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 662px;
+    width: 1320px;
+    margin: 0px 140px 120px 140px;
+}
+.fifty{
+    height: 305px;
+    width: 305px;
+    margin-top: 150px;
+    margin-left: 199px;
+}
+
+/* section-class-awesome styles */
+.awesome{
+    background-color: white;
+    height: 1163px;
+    width: 1320px;
+    margin: 0px 140px 120px 140px;
+}
+.tbg{
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 1px;
+    margin-right: 5px;
+}
+.awp{
+    color: #070211;
+    font-size: 48px;
+    font-weight:bold;
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
+.gg{
+    color: #070211;
+    font-size: 20px;
+    font-style: normal;
+    margin-top: 1px;
+}
+.product{
+    margin-left: 5px;
+}
+
+.kang{
+    border: 5px solid white;
+    border-radius: 16px;
+    width: 424px; 
+    height: 450px;
+    gap: 24px;
+}
+
+/* section-class-subscribe styles */
+.subscribe{
+    background-color: rgb(232, 226, 226);
+    width: 1320px;
+    height: 616px;
+    margin: 0px 140px 120px 140px;
+    text-align: center;
+}
+
+
+.newsletter{
+    background-color: #FF0000;
+    width: 896px;
+    height: 336px;
+    margin-top: 2px;
+}
+.snl{
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+}
+.email-input{
+    background-color: #daf7f3;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+}
+.subscribe-button{
+    background-color: #ff0000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+}
+.subscribe-button:hover {
+  background-color: #cc0000; 
+}
+
+/* footer-section-style */
+footer{
+    background-color: #070211;
+    height: 609px;
+    width: 1600px;
+}
+.address{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px auto;
+}
+.social{
+    /* display: flex; */
+    text-align: center;
+}
+
+.ars{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
